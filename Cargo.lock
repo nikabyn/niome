@@ -823,8 +823,6 @@ dependencies = [
  "smithay",
  "tracing",
  "tracing-subscriber",
- "wayland-protocols",
- "wayland-server",
  "winit",
 ]
 

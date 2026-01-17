@@ -7,6 +7,4 @@ edition = "2024"
 smithay = { git = "https://github.com/Smithay/smithay.git", rev = "f8e897bc1123791659a26fa27cff347f8914fc43" }
 tracing = "0.1.44"
 tracing-subscriber = { version = "0.3.22", features = ["env-filter"] }
-wayland-protocols = "0.32.10"
-wayland-server = "0.31.11"
 winit = "0.30.12"
